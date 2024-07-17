@@ -1,0 +1,16 @@
+id_empleado,rut,nombre,apellido,anexo,email,id_cargo_id
+1,17.517.309-0,Carlos,Gomez,81751,Correo1@duocuc.cl,1
+2,14.365.619-5,Ana,Zuñiga,81379,Correo2@duocuc.cl,2
+3,6.804.442-0,Ruben,Avila,81513,Correo3@duocuc.cl,3
+4,19.207.310-1,Luis,Hernandez,81234,Correo4@duocuc.cl,3
+5,13.406.521-2,Carmen,Ramirez,81235,Correo5@duocuc.cl,3
+6,7.908.453-3,Sergio,Castro,81236,Correo6@duocuc.cl,4
+7,20.456.788-4,Elena,Martinez,81237,Correo7@duocuc.cl,4
+8,15.678.932-5,Ignacio,Santos,81238,Correo8@duocuc.cl,4
+9,8.809.123-6,Lorena,Gutierrez,81239,Correo9@duocuc.cl,4
+10,21.567.890-7,Pablo,Vega,81240,Correo10@duocuc.cl,4
+11,16.678.923-8,Alicia,Mendez,81241,Correo11@duocuc.cl,4
+12,9.909.123-9,Eduardo,Molina,81242,Correo12@duocuc.cl,4
+13,22.456.789-0,Valeria,Reyes,81243,Correo13@duocuc.cl,4
+14,17.789.234-1,David,Silva,81244,Correo14@duocuc.cl,4
+15,10.678.912-2,Mariana,Ortiz,81245,Correo15@duocuc.cl,4

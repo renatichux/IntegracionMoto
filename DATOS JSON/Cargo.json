@@ -1,0 +1,19 @@
+[
+    {
+        "id_cargo" : 1,
+        "nombre_cargo" : "Gerente"
+    },
+    {
+        "id_cargo" : 2,
+        "nombre_cargo" : "Jefe Local"
+    },
+    {
+        "id_cargo" : 3,
+        "nombre_cargo" : "Mecanico"
+    },
+    {
+        "id_cargo" : 4,
+        "nombre_cargo" : "Vendedor"
+    }
+
+]

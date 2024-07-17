@@ -1,0 +1,42 @@
+[
+    {
+        "id_tipo_moto" : 1,
+        "descripcion" : "enduro"
+    },
+    {
+        "id_tipo_moto" : 2,
+        "descripcion" : "deportiva"
+    },
+    {
+        "id_tipo_moto" : 3,
+        "descripcion" : "crucero"
+    },
+    {
+        "id_tipo_moto" : 4,
+        "descripcion" : "touring"
+    },
+    {
+        "id_tipo_moto" : 5,
+        "descripcion" : "scooter"
+    },
+    {
+        "id_tipo_moto" : 6,
+        "descripcion" : "naked"
+    },
+    {
+        "id_tipo_moto" : 7,
+        "descripcion" : "motocross"
+    },
+    {
+        "id_tipo_moto" : 8,
+        "descripcion" : "dual-sport"
+    },
+    {
+        "id_tipo_moto" : 9,
+        "descripcion" : "retro"
+    },
+    {
+        "id_tipo_moto" : 10,
+        "descripcion" : "custom"
+    }
+]

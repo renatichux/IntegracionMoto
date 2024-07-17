@@ -1,0 +1,137 @@
+[
+    {
+        "id_empleado" : 1,
+        "rut" : "17.517.309-0",
+        "nombre" : "Carlos",
+        "apellido" : "Gomez",
+        "anexo" : "81751",
+        "email" : "Correo1@duocuc.cl",
+        "id_cargo" : 1
+    },
+    {
+        "id_empleado" : 2,
+        "rut" : "14.365.619-5",
+        "nombre" : "Ana",
+        "apellido" : "Zuñiga",
+        "anexo" : "81379",
+        "email" : "Correo2@duocuc.cl",
+        "id_cargo" : 2
+    },
+    {
+        "id_empleado" : 3,
+        "rut" : "6.804.442-0",
+        "nombre" : "Ruben",
+        "apellido" : "Avila",
+        "anexo" : "81513",
+        "email" : "Correo3@duocuc.cl",
+        "id_cargo" : 3
+    },
+    {
+        "id_empleado" : 4,
+        "rut" : "19.207.310-1",
+        "nombre" : "Luis",
+        "apellido" : "Hernandez",
+        "anexo" : "81234",
+        "email" : "Correo4@duocuc.cl",
+        "id_cargo" : 3
+    },
+    {
+        "id_empleado" : 5,
+        "rut" : "13.406.521-2",
+        "nombre" : "Carmen",
+        "apellido" : "Ramirez",
+        "anexo" : "81235",
+        "email" : "Correo5@duocuc.cl",
+        "id_cargo" : 3
+    },
+    {
+        "id_empleado" : 6,
+        "rut" : "7.908.453-3",
+        "nombre" : "Sergio",
+        "apellido" : "Castro",
+        "anexo" : "81236",
+        "email" : "Correo6@duocuc.cl",
+        "id_cargo" : 4
+    },
+    {
+        "id_empleado" : 7,
+        "rut" : "20.456.788-4",
+        "nombre" : "Elena",
+        "apellido" : "Martinez",
+        "anexo" : "81237",
+        "email" : "Correo7@duocuc.cl",
+        "id_cargo" : 4
+    },
+    {
+        "id_empleado" : 8,
+        "rut" : "15.678.932-5",
+        "nombre" : "Ignacio",
+        "apellido" : "Santos",
+        "anexo" : "81238",
+        "email" : "Correo8@duocuc.cl",
+        "id_cargo" : 4
+    },
+    {
+        "id_empleado" : 9,
+        "rut" : "8.809.123-6",
+        "nombre" : "Lorena",
+        "apellido" : "Gutierrez",
+        "anexo" : "81239",
+        "email" : "Correo9@duocuc.cl",
+        "id_cargo" : 4
+    },
+    {
+        "id_empleado" : 10,
+        "rut" : "21.567.890-7",
+        "nombre" : "Pablo",
+        "apellido" : "Vega",
+        "anexo" : "81240",
+        "email" : "Correo10@duocuc.cl",
+        "id_cargo" : 4
+    },
+    {
+        "id_empleado" : 11,
+        "rut" : "16.678.923-8",
+        "nombre" : "Alicia",
+        "apellido" : "Mendez",
+        "anexo" : "81241",
+        "email" : "Correo11@duocuc.cl",
+        "id_cargo" : 4
+    },
+    {
+        "id_empleado" : 12,
+        "rut" : "9.909.123-9",
+        "nombre" : "Eduardo",
+        "apellido" : "Molina",
+        "anexo" : "81242",
+        "email" : "Correo12@duocuc.cl",
+        "id_cargo" : 4
+    },
+    {
+        "id_empleado" : 13,
+        "rut" : "22.456.789-0",
+        "nombre" : "Valeria",
+        "apellido" : "Reyes",
+        "anexo" : "81243",
+        "email" : "Correo13@duocuc.cl",
+        "id_cargo" : 4
+    },
+    {
+        "id_empleado" : 14,
+        "rut" : "17.789.234-1",
+        "nombre" : "David",
+        "apellido" : "Silva",
+        "anexo" : "81244",
+        "email" : "Correo14@duocuc.cl",
+        "id_cargo" : 4
+    },
+    {
+        "id_empleado" : 15,
+        "rut" : "10.678.912-2",
+        "nombre" : "Mariana",
+        "apellido" : "Ortiz",
+        "anexo" : "81245",
+        "email" : "Correo15@duocuc.cl",
+        "id_cargo" : 4
+    }
+]

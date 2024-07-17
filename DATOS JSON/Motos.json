@@ -1,0 +1,273 @@
+[
+        {
+            "id_moto" : 1,
+            "id_tipo_moto" : 1,
+            "id_marca" : 1,
+            "modelo" : "XR",
+            "precio" : 15000,
+            "color" : "Rojo",
+            "cilindrada" : 1600
+        },
+        {
+            "id_moto" : 2,
+            "id_tipo_moto" : 2,
+            "id_marca" : 3,
+            "modelo" : "Tornado",
+            "precio" : 15000,
+            "color" : "Verde",
+            "cilindrada" : 2600
+        },
+        {
+            "id_moto" : 3,
+            "id_tipo_moto" : 5,
+            "id_marca" : 11,
+            "modelo" : "R1",
+            "precio" : 20000,
+            "color" : "Azul",
+            "cilindrada" : 1000
+        },
+        {
+            "id_moto" : 4,
+            "id_tipo_moto" : 6,
+            "id_marca" : 9,
+            "modelo" : "R6",
+            "precio" : 18000,
+            "color" : "Negro",
+            "cilindrada" : 600
+        },
+        {
+            "id_moto" : 5,
+            "id_tipo_moto" : 4,
+            "id_marca" : 7,
+            "modelo" : "Ninja",
+            "precio" : 17000,
+            "color" : "Verde",
+            "cilindrada" : 650
+        },
+        {
+            "id_moto" : 6,
+            "id_tipo_moto" : 6,
+            "id_marca" : 7,
+            "modelo" : "Z1000",
+            "precio" : 22000,
+            "color" : "Negro",
+            "cilindrada" : 1000
+        },
+        {
+            "id_moto" : 7,
+            "id_tipo_moto" : 10,
+            "id_marca" : 11,
+            "modelo" : "V-Strom",
+            "precio" : 19000,
+            "color" : "Rojo",
+            "cilindrada" : 650
+        },
+        {
+            "id_moto" : 8,
+            "id_tipo_moto" : 4,
+            "id_marca" : 4,
+            "modelo" : "GSX-S750",
+            "precio" : 21000,
+            "color" : "Azul",
+            "cilindrada" : 750
+        },
+        {
+            "id_moto" : 9,
+            "id_tipo_moto" : 5,
+            "id_marca" : 5,
+            "modelo" : "C400X",
+            "precio" : 14000,
+            "color" : "Blanco",
+            "cilindrada" : 400
+        },
+        {
+            "id_moto" : 10,
+            "id_tipo_moto" : 9,
+            "id_marca" :15,
+            "modelo" : "C650GT",
+            "precio" : 16000,
+            "color" : "Gris",
+            "cilindrada" : 650
+        },
+        {
+            "id_moto" : 11,
+            "id_tipo_moto" : 6,
+            "id_marca" : 2,
+            "modelo" : "Monster",
+            "precio" : 23000,
+            "color" : "Rojo",
+            "cilindrada" : 821
+        },
+        {
+            "id_moto" : 12,
+            "id_tipo_moto" : 4,
+            "id_marca" : 13,
+            "modelo" : "Panigale",
+            "precio" : 25000,
+            "color" : "Rojo",
+            "cilindrada" : 1103
+        },
+        {
+            "id_moto" : 13,
+            "id_tipo_moto" : 7,
+            "id_marca" : 7,
+            "modelo" : "Iron 883",
+            "precio" : 18000,
+            "color" : "Negro",
+            "cilindrada" : 883
+        },
+        {
+            "id_moto" : 14,
+            "id_tipo_moto" : 1,
+            "id_marca" : 2,
+            "modelo" : "Street 750",
+            "precio" : 15000,
+            "color" : "Rojo",
+            "cilindrada" : 749
+        },
+        {
+            "id_moto" : 15,
+            "id_tipo_moto" : 8,
+            "id_marca" : 14,
+            "modelo" : "Duke 390",
+            "precio" : 12000,
+            "color" : "Naranja",
+            "cilindrada" : 373
+        },
+        {
+            "id_moto" : 16,
+            "id_tipo_moto" : 6,
+            "id_marca" : 5,
+            "modelo" : "Adventure 790",
+            "precio" : 20000,
+            "color" : "Naranja",
+            "cilindrada" : 799
+        },
+        {
+            "id_moto" : 17,
+            "id_tipo_moto" : 9,
+            "id_marca" : 11,
+            "modelo" : "Bonneville",
+            "precio" : 16000,
+            "color" : "Azul",
+            "cilindrada" : 1200
+        },
+        {
+            "id_moto" : 18,
+            "id_tipo_moto" : 1,
+            "id_marca" : 7,
+            "modelo" : "Street Twin",
+            "precio" : 14000,
+            "color" : "Negro",
+            "cilindrada" : 900
+        },
+        {
+            "id_moto" : 19,
+            "id_tipo_moto" : 10,
+            "id_marca" : 13,
+            "modelo" : "RSV4",
+            "precio" : 24000,
+            "color" : "Rojo",
+            "cilindrada" : 1100
+        },
+        {
+            "id_moto" : 20,
+            "id_tipo_moto" : 3,
+            "id_marca" : 6,
+            "modelo" : "Tuono V4",
+            "precio" : 22000,
+            "color" : "Negro",
+            "cilindrada" : 1100
+        },
+        {
+            "id_moto" : 21,
+            "id_tipo_moto" : 1,
+            "id_marca" : 11,
+            "modelo" : "Brutale 800",
+            "precio" : 23000,
+            "color" : "Rojo",
+            "cilindrada" : 798
+        },
+        {
+            "id_moto" : 22,
+            "id_tipo_moto" : 4,
+            "id_marca" : 8,
+            "modelo" : "Dragster 800",
+            "precio" : 25000,
+            "color" : "Amarillo",
+            "cilindrada" : 798
+        },
+        {
+            "id_moto" : 23,
+            "id_tipo_moto" : 2,
+            "id_marca" : 12,
+            "modelo" : "Interceptor",
+            "precio" : 12000,
+            "color" : "Blanco",
+            "cilindrada" : 650
+        },
+        {
+            "id_moto" : 24,
+            "id_tipo_moto" : 4,
+            "id_marca" : 6,
+            "modelo" : "Himalayan",
+            "precio" : 11000,
+            "color" : "Negro",
+            "cilindrada" : 411
+        },
+        {
+            "id_moto" : 25,
+            "id_tipo_moto" : 3,
+            "id_marca" : 1,
+            "modelo" : "Scout Bobber",
+            "precio" : 20000,
+            "color" : "Rojo",
+            "cilindrada" : 1133
+        },
+        {
+            "id_moto" : 26,
+            "id_tipo_moto" : 4,
+            "id_marca" : 9,
+            "modelo" : "Chief",
+            "precio" : 25000,
+            "color" : "Azul",
+            "cilindrada" : 1811
+        },
+        {
+            "id_moto" : 27,
+            "id_tipo_moto" : 6,
+            "id_marca" : 8,
+            "modelo" : "V7 III",
+            "precio" : 17000,
+            "color" : "Verde",
+            "cilindrada" : 744
+        },
+        {
+            "id_moto" : 28,
+            "id_tipo_moto" : 10,
+            "id_marca" : 14,
+            "modelo" : "California",
+            "precio" : 21000,
+            "color" : "Negro",
+            "cilindrada" : 1380
+        },
+        {
+            "id_moto" : 29,
+            "id_tipo_moto" : 5,
+            "id_marca" : 12,
+            "modelo" : "Leoncino 500",
+            "precio" : 13000,
+            "color" : "Rojo",
+            "cilindrada" : 500
+        },
+        {
+            "id_moto" : 30,
+            "id_tipo_moto" : 8,
+            "id_marca" : 4,
+            "modelo" : "TRK 502",
+            "precio" : 14000,
+            "color" : "Blanco",
+            "cilindrada" : 500
+        }
+    ]
+    

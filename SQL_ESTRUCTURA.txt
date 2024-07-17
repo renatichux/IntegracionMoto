@@ -1,0 +1,91 @@
+CREATE TABLE cliente (
+    "id_cliente" integer NOT NULL,
+    "rut" VARCHAR(50) NOT NULL,
+    "nombre" VARCHAR(50) NOT NULL,
+    "apellido" VARCHAR(50) NOT NULL,
+    "direccion" VARCHAR(100),
+    "telefono" VARCHAR(15),
+    "email" VARCHAR(50),
+    PRIMARY KEY ( "id_cliente" AUTOINCREMENT)
+);
+
+CREATE TABLE cargo (
+    "id_cargo" integer NOT NULL,
+    "nombre_cargo" VARCHAR(50),
+    PRIMARY KEY ( "id_cargo" AUTOINCREMENT)
+);
+
+CREATE TABLE empleado (
+    "id_empleado" integer NOT NULL,
+    "rut" VARCHAR(50) NOT NULL,
+    "nombre" VARCHAR(50) NOT NULL,
+    "apellido" VARCHAR(50) NOT NULL,
+    "anexo" VARCHAR(15),
+    "email" VARCHAR(50),
+    "id_cargo_id" integer NOT NULL,
+    PRIMARY KEY ( "id_empleado" AUTOINCREMENT)
+    FOREIGN KEY ( "id_cargo_id" ) REFERENCES "cargo" ( "id_cargo" )
+);
+
+
+CREATE TABLE tipo_moto (
+    "id_tipo_moto" integer NOT NULL,
+    "descripcion" VARCHAR(50),
+    PRIMARY KEY ( "id_tipo_moto" AUTOINCREMENT)
+);
+
+CREATE TABLE marca (
+    "id_marca" integer NOT NULL,
+    "nombre_marca" VARCHAR(50),
+    PRIMARY KEY ( "id_marca" AUTOINCREMENT)
+);
+
+
+CREATE TABLE moto (
+    "id_moto" integer NOT NULL,
+    "id_tipo_moto_id"  integer NOT NULL,
+    "id_marca_id"  integer NOT NULL,
+    "modelo" VARCHAR(50),
+    "precio"  integer NOT NULL,
+    "color" VARCHAR(20),
+    "cilindrada"  integer NOT NULL,
+    PRIMARY KEY ( "id_moto" AUTOINCREMENT),
+    FOREIGN KEY ( "id_tipo_moto_id" ) REFERENCES "tipo_moto" ( "id_tipo_moto" ),
+    FOREIGN KEY ( "id_marca_id" ) REFERENCES "marca" ( "id_marca" )
+);
+
+
+
+
+CREATE TABLE boleta (
+    "id_boleta" integer NOT NULL,
+    "id_cliente_id" integer NOT NULL,
+    "id_empleado_id" integer NOT NULL,
+    "fecha" VARCHAR(50),
+    "total" integer NOT NULL,
+    PRIMARY KEY ( "id_boleta" AUTOINCREMENT),
+    FOREIGN KEY ( "id_cliente_id" ) REFERENCES "cliente" ( "id_cliente" ),
+    FOREIGN KEY ( "id_empleado_id" ) REFERENCES "empleado" ( "id_empleado" )
+);
+
+CREATE TABLE detalle_boleta (
+    "id_detalle_boleta" integer NOT NULL,
+    "id_boleta_id" integer NOT NULL,
+    "id_moto_id" integer NOT NULL,
+    "cantidad" integer NOT NULL,
+    "precio_unitario" integer NOT NULL,
+    PRIMARY KEY ( "id_detalle_boleta" AUTOINCREMENT),
+    FOREIGN KEY ( "id_boleta_id" ) REFERENCES "boleta" ( "id_boleta" ),
+    FOREIGN KEY ( "id_moto_id" ) REFERENCES "moto" ( "id_moto" )
+);
+
+
+CREATE TABLE carrito_compras (
+    "id_carrito" integer NOT NULL,
+    "id_cliente" integer NOT NULL,
+    "id_moto" integer NOT NULL,
+    "cantidad" integer NOT NULL,
+    PRIMARY KEY ( "id_carrito" AUTOINCREMENT),
+    FOREIGN KEY ( "id_cliente" ) REFERENCES "cliente" ( "id_cliente" ),
+    FOREIGN KEY ( "id_moto" ) REFERENCES "moto" ( "id_moto" )
+);

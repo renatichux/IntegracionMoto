@@ -1,0 +1,62 @@
+[
+    {
+        "id_marca" : 1,
+        "nombre_marca" : "Honda"
+    },
+    {
+        "id_marca" : 2,
+        "nombre_marca" : "Yamaha"
+    },
+    {
+        "id_marca" : 3,
+        "nombre_marca" : "Kawazaki"
+    },
+    {
+        "id_marca" : 4,
+        "nombre_marca" : "Suzuki"
+    },
+    {
+        "id_marca" : 5,
+        "nombre_marca" : "BMW"
+    },
+    {
+        "id_marca" : 6,
+        "nombre_marca" : "Ducati"
+    },
+    {
+        "id_marca" : 7,
+        "nombre_marca" : "Harley-Davidson"
+    },
+    {
+        "id_marca" : 8,
+        "nombre_marca" : "KTM"
+    },
+    {
+        "id_marca" : 9,
+        "nombre_marca" : "Triumph"
+    },
+    {
+        "id_marca" : 10,
+        "nombre_marca" : "Aprilia"
+    },
+    {
+        "id_marca" : 11,
+        "nombre_marca" : "MV Agusta"
+    },
+    {
+        "id_marca" : 12,
+        "nombre_marca" : "Royal Enfield"
+    },
+    {
+        "id_marca" : 13,
+        "nombre_marca" : "Indian"
+    },
+    {
+        "id_marca" : 14,
+        "nombre_marca" : "Moto Guzzi"
+    },
+    {
+        "id_marca" : 15,
+        "nombre_marca" : "Benelli"
+    }
+]

@@ -1,0 +1,31 @@
+id_moto,id_tipo_moto,id_marca,modelo,precio,color,cilindrada
+1,1,1,XR,15000,Rojo,1600
+2,2,3,Tornado,15000,Verde,2600
+3,5,11,R1,20000,Azul,1000
+4,6,9,R6,18000,Negro,600
+5,4,7,Ninja,17000,Verde,650
+6,6,7,Z1000,22000,Negro,1000
+7,10,11,V-Strom,19000,Rojo,650
+8,4,4,GSX-S750,21000,Azul,750
+9,5,5,C400X,14000,Blanco,400
+10,9,15,C650GT,16000,Gris,650
+11,6,2,Monster,23000,Rojo,821
+12,4,13,Panigale,25000,Rojo,1103
+13,7,7,Iron 883,18000,Negro,883
+14,1,2,Street 750,15000,Rojo,749
+15,8,14,Duke 390,12000,Naranja,373
+16,6,5,Adventure 790,20000,Naranja,799
+17,9,11,Bonneville,16000,Azul,1200
+18,1,7,Street Twin,14000,Negro,900
+19,10,13,RSV4,24000,Rojo,1100
+20,3,6,Tuono V4,22000,Negro,1100
+21,1,11,Brutale 800,23000,Rojo,798
+22,4,8,Dragster 800,25000,Amarillo,798
+23,2,12,Interceptor,12000,Blanco,650
+24,4,6,Himalayan,11000,Negro,411
+25,3,1,Scout Bobber,20000,Rojo,1133
+26,4,9,Chief,25000,Azul,1811
+27,6,8,V7 III,17000,Verde,744
+28,10,14,California,21000,Negro,1380
+29,5,12,Leoncino 500,13000,Rojo,500
+30,8,4,TRK 502,14000,Blanco,500

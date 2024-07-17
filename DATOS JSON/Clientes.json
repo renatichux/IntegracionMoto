@@ -1,0 +1,452 @@
+[
+    {
+        "id_cliente" : 1,
+        "rut" : "20.123.456-7",
+        "nombre" : "Martin",
+        "apellido" : "Sanchez",
+        "direccion" : "San José #123, San Bernardo",
+        "telefono" : "123456789",
+        "email" : "Correo2@duocuc.cl"
+    },
+    {
+        "id_cliente" : 2,
+        "rut" : "22.453.666-0",
+        "nombre" : "Camila",
+        "apellido" : "Vidal",
+        "direccion" : "Alameda #34828, Santiago",
+        "telefono" : "234567890",
+        "email" : "Correo2@duocuc.cl"
+    },
+    {
+        "id_cliente" : 3,
+        "rut" : "23.442.710-6",
+        "nombre" : "Julieta",
+        "apellido" : "Medel",
+        "direccion" : "Puerto Williams #69, Calera de Tango",
+        "telefono" : "345678901",
+        "email" : "Correo3@duocuc.cl"
+    },
+    {
+        "id_cliente" : 4,
+        "rut" : "19.199.610-2",
+        "nombre" : "Agustin",
+        "apellido" : "Morales",
+        "direccion" : "Antonia Varas #555, San Bernardo",
+        "telefono" : "456789012",
+        "email" : "Correo2@duocuc.cl"
+    },
+    {
+        "id_cliente" : 5,
+        "rut" : "18.987.654-3",
+        "nombre" : "Valentina",
+        "apellido" : "Figueroa",
+        "direccion" : "Providencia #1234, Santiago",
+        "telefono" : "567890123",
+        "email" : "Correo4@duocuc.cl"
+    },
+    {
+        "id_cliente" : 6,
+        "rut" : "24.123.456-8",
+        "nombre" : "Sebastian",
+        "apellido" : "Gonzalez",
+        "direccion" : "La Florida #567, La Florida",
+        "telefono" : "678901234",
+        "email" : "Correo5@duocuc.cl"
+    },
+    {
+        "id_cliente" : 7,
+        "rut" : "21.987.654-3",
+        "nombre" : "Isabella",
+        "apellido" : "Perez",
+        "direccion" : "Macul #890, Macul",
+        "telefono" : "789012345",
+        "email" : "Correo6@duocuc.cl"
+    },
+    {
+        "id_cliente" : 8,
+        "rut" : "25.123.456-9",
+        "nombre" : "Matias",
+        "apellido" : "Rodriguez",
+        "direccion" : "Ñuñoa #123, Ñuñoa",
+        "telefono" : "890123456",
+        "email" : "Correo7@duocuc.cl"
+    },
+    {
+        "id_cliente" : 9,
+        "rut" : "26.123.456-0",
+        "nombre" : "Josefa",
+        "apellido" : "Hernandez",
+        "direccion" : "Las Condes #567, Las Condes",
+        "telefono" : "901234567",
+        "email" : "Correo8@duocuc.cl"
+    },
+    {
+        "id_cliente" : 10,
+        "rut" : "27.123.456-1",
+        "nombre" : "Benjamin",
+        "apellido" : "Diaz",
+        "direccion" : "Vitacura #890, Vitacura",
+        "telefono" : "012345678",
+        "email" : "Correo9@duocuc.cl"
+    },
+    {
+        "id_cliente" : 11,
+        "rut" : "20.124.456-7",
+        "nombre" : "Sofia",
+        "apellido" : "Martinez",
+        "direccion" : "Las Rejas #321, Estación Central",
+        "telefono" : "1234567891",
+        "email" : "Correo10@duocuc.cl"
+    },
+    {
+        "id_cliente" : 12,
+        "rut" : "22.454.666-0",
+        "nombre" : "Ignacio",
+        "apellido" : "Lopez",
+        "direccion" : "Irarrázaval #234, Ñuñoa",
+        "telefono" : "2345678901",
+        "email" : "Correo11@duocuc.cl"
+    },
+    {
+        "id_cliente" : 13,
+        "rut" : "23.443.710-6",
+        "nombre" : "Francisca",
+        "apellido" : "Garcia",
+        "direccion" : "Gran Avenida #456, San Miguel",
+        "telefono" : "3456789012",
+        "email" : "Correo12@duocuc.cl"
+    },
+    {
+        "id_cliente" : 14,
+        "rut" : "19.200.610-2",
+        "nombre" : "Lucas",
+        "apellido" : "Perez",
+        "direccion" : "San Pablo #678, Santiago Centro",
+        "telefono" : "4567890123",
+        "email" : "Correo13@duocuc.cl"
+    },
+    {
+        "id_cliente" : 15,
+        "rut" : "18.988.654-3",
+        "nombre" : "Florencia",
+        "apellido" : "Mora",
+        "direccion" : "Vicuña Mackenna #890, La Florida",
+        "telefono" : "5678901234",
+        "email" : "Correo14@duocuc.cl"
+    },
+    {
+        "id_cliente" : 16,
+        "rut" : "24.124.456-8",
+        "nombre" : "Nicolas",
+        "apellido" : "Gutierrez",
+        "direccion" : "Walker Martinez #123, La Reina",
+        "telefono" : "6789012345",
+        "email" : "Correo15@duocuc.cl"
+    },
+    {
+        "id_cliente" : 17,
+        "rut" : "21.988.654-3",
+        "nombre" : "Emilia",
+        "apellido" : "Rojas",
+        "direccion" : "Los Leones #345, Providencia",
+        "telefono" : "7890123456",
+        "email" : "Correo16@duocuc.cl"
+    },
+    {
+        "id_cliente" : 18,
+        "rut" : "25.124.456-9",
+        "nombre" : "Diego",
+        "apellido" : "Hidalgo",
+        "direccion" : "Matta #567, Santiago",
+        "telefono" : "8901234567",
+        "email" : "Correo17@duocuc.cl"
+    },
+    {
+        "id_cliente" : 19,
+        "rut" : "26.124.456-0",
+        "nombre" : "Renata",
+        "apellido" : "Carrasco",
+        "direccion" : "Portugal #789, Santiago",
+        "telefono" : "9012345678",
+        "email" : "Correo18@duocuc.cl"
+    },
+    {
+        "id_cliente" : 20,
+        "rut" : "27.124.456-1",
+        "nombre" : "Tomás",
+        "apellido" : "Paredes",
+        "direccion" : "España #890, Santiago",
+        "telefono" : "0123456789",
+        "email" : "Correo19@duocuc.cl"
+    },
+    {
+        "id_cliente" : 21,
+        "rut" : "20.125.456-7",
+        "nombre" : "Amanda",
+        "apellido" : "Silva",
+        "direccion" : "San Diego #123, Santiago",
+        "telefono" : "1234567890",
+        "email" : "Correo20@duocuc.cl"
+    },
+    {
+        "id_cliente" : 22,
+        "rut" : "22.455.666-0",
+        "nombre" : "Gabriel",
+        "apellido" : "Reyes",
+        "direccion" : "Independencia #234, Independencia",
+        "telefono" : "2345678900",
+        "email" : "Correo21@duocuc.cl"
+    },
+    {
+        "id_cliente" : 23,
+        "rut" : "23.444.710-6",
+        "nombre" : "Luciana",
+        "apellido" : "Romero",
+        "direccion" : "Matucana #456, Estación Central",
+        "telefono" : "3456789010",
+        "email" : "Correo22@duocuc.cl"
+    },
+    {
+        "id_cliente" : 24,
+        "rut" : "19.201.610-2",
+        "nombre" : "Vicente",
+        "apellido" : "Salazar",
+        "direccion" : "Pajaritos #678, Maipú",
+        "telefono" : "4567890120",
+        "email" : "Correo23@duocuc.cl"
+    },
+    {
+        "id_cliente" : 25,
+        "rut" : "18.989.654-3",
+        "nombre" : "Alicia",
+        "apellido" : "Mendoza",
+        "direccion" : "Vicuña Mackenna #890, La Florida",
+        "telefono" : "5678901230",
+        "email" : "Correo24@duocuc.cl"
+    },
+    {
+        "id_cliente" : 26,
+        "rut" : "24.125.456-8",
+        "nombre" : "Alejandro",
+        "apellido" : "Fuentes",
+        "direccion" : "Los Presidentes #123, Peñalolén",
+        "telefono" : "6789012340",
+        "email" : "Correo25@duocuc.cl"
+    },
+    {
+        "id_cliente" : 27,
+        "rut" : "21.989.654-3",
+        "nombre" : "Catalina",
+        "apellido" : "Campos",
+        "direccion" : "Irarrázaval #345, Ñuñoa",
+        "telefono" : "7890123450",
+        "email" : "Correo26@duocuc.cl"
+    },
+    {
+        "id_cliente" : 28,
+        "rut" : "25.125.456-9",
+        "nombre" : "Maximiliano",
+        "apellido" : "Vega",
+        "direccion" : "Carmen #567, Santiago",
+        "telefono" : "8901234560",
+        "email" : "Correo27@duocuc.cl"
+    },
+    {
+        "id_cliente" : 29,
+        "rut" : "26.125.456-0",
+        "nombre" : "Antonia",
+        "apellido" : "Soto",
+        "direccion" : "Portugal #789, Santiago",
+        "telefono" : "9012345670",
+        "email" : "Correo28@duocuc.cl"
+    },
+    {
+        "id_cliente" : 30,
+        "rut" : "27.125.456-1",
+        "nombre" : "Joaquin",
+        "apellido" : "Saavedra",
+        "direccion" : "Pedro de Valdivia #890, Providencia",
+        "telefono" : "0123456780",
+        "email" : "Correo29@duocuc.cl"
+    },
+    {
+        "id_cliente" : 31,
+        "rut" : "20.126.456-7",
+        "nombre" : "Daniela",
+        "apellido" : "Araya",
+        "direccion" : "Catedral #123, Santiago",
+        "telefono" : "1234567892",
+        "email" : "Correo30@duocuc.cl"
+    },
+    {
+        "id_cliente" : 32,
+        "rut" : "22.456.666-0",
+        "nombre" : "Cristian",
+        "apellido" : "Navarro",
+        "direccion" : "Bellavista #234, Recoleta",
+        "telefono" : "2345678902",
+        "email" : "Correo31@duocuc.cl"
+    },
+    {
+        "id_cliente" : 33,
+        "rut" : "23.445.710-6",
+        "nombre" : "Constanza",
+        "apellido" : "Parra",
+        "direccion" : "Balmaceda #456, Santiago",
+        "telefono" : "3456789013",
+        "email" : "Correo32@duocuc.cl"
+    },
+    {
+        "id_cliente" : 34,
+        "rut" : "19.202.610-2",
+        "nombre" : "Felipe",
+        "apellido" : "Bravo",
+        "direccion" : "Matucana #678, Santiago",
+        "telefono" : "4567890124",
+        "email" : "Correo33@duocuc.cl"
+    },
+    {
+        "id_cliente" : 35,
+        "rut" : "18.990.654-3",
+        "nombre" : "Paz",
+        "apellido" : "Sanhueza",
+        "direccion" : "Gran Avenida #890, La Cisterna",
+        "telefono" : "5678901235",
+        "email" : "Correo34@duocuc.cl"
+    },
+    {
+        "id_cliente" : 36,
+        "rut" : "24.126.456-8",
+        "nombre" : "Cristobal",
+        "apellido" : "Arancibia",
+        "direccion" : "Pajaritos #123, Maipú",
+        "telefono" : "6789012346",
+        "email" : "Correo35@duocuc.cl"
+    },
+    {
+        "id_cliente" : 37,
+        "rut" : "21.990.654-3",
+        "nombre" : "Belen",
+        "apellido" : "Acevedo",
+        "direccion" : "Matta #345, Santiago",
+        "telefono" : "7890123457",
+        "email" : "Correo36@duocuc.cl"
+    },
+    {
+        "id_cliente" : 38,
+        "rut" : "25.126.456-9",
+        "nombre" : "Juan",
+        "apellido" : "Meza",
+        "direccion" : "San Diego #567, Santiago",
+        "telefono" : "8901234561",
+        "email" : "Correo37@duocuc.cl"
+    },
+    {
+        "id_cliente" : 39,
+        "rut" : "26.126.456-0",
+        "nombre" : "Alondra",
+        "apellido" : "Garrido",
+        "direccion" : "Irarrázaval #789, Ñuñoa",
+        "telefono" : "9012345671",
+        "email" : "Correo38@duocuc.cl"
+    },
+    {
+        "id_cliente" : 40,
+        "rut" : "27.126.456-1",
+        "nombre" : "Dylan",
+        "apellido" : "Valdes",
+        "direccion" : "Pedro de Valdivia #890, Providencia",
+        "telefono" : "0123456781",
+        "email" : "Correo39@duocuc.cl"
+    },
+    {
+        "id_cliente" : 41,
+        "rut" : "20.127.456-7",
+        "nombre" : "Jose",
+        "apellido" : "Palma",
+        "direccion" : "Catedral #123, Santiago",
+        "telefono" : "1234567893",
+        "email" : "Correo40@duocuc.cl"
+    },
+    {
+        "id_cliente" : 42,
+        "rut" : "22.457.666-0",
+        "nombre" : "Daniel",
+        "apellido" : "Miranda",
+        "direccion" : "Bellavista #234, Recoleta",
+        "telefono" : "2345678903",
+        "email" : "Correo41@duocuc.cl"
+    },
+    {
+        "id_cliente" : 43,
+        "rut" : "23.446.710-6",
+        "nombre" : "Monserrat",
+        "apellido" : "Ruiz",
+        "direccion" : "Balmaceda #456, Santiago",
+        "telefono" : "3456789014",
+        "email" : "Correo42@duocuc.cl"
+    },
+    {
+        "id_cliente" : 44,
+        "rut" : "19.203.610-2",
+        "nombre" : "Aaron",
+        "apellido" : "Jimenez",
+        "direccion" : "Matucana #678, Santiago",
+        "telefono" : "4567890125",
+        "email" : "Correo43@duocuc.cl"
+    },
+    {
+        "id_cliente" : 45,
+        "rut" : "18.991.654-3",
+        "nombre" : "Victoria",
+        "apellido" : "Caceres",
+        "direccion" : "Gran Avenida #890, La Cisterna",
+        "telefono" : "5678901236",
+        "email" : "Correo44@duocuc.cl"
+    },
+    {
+        "id_cliente" : 46,
+        "rut" : "24.127.456-8",
+        "nombre" : "Javiera",
+        "apellido" : "Orellana",
+        "direccion" : "Pajaritos #123, Maipú",
+        "telefono" : "6789012347",
+        "email" : "Correo45@duocuc.cl"
+    },
+    {
+        "id_cliente" : 47,
+        "rut" : "21.991.654-3",
+        "nombre" : "Emmanuel",
+        "apellido" : "Venegas",
+        "direccion" : "Matta #345, Santiago",
+        "telefono" : "7890123458",
+        "email" : "Correo46@duocuc.cl"
+    },
+    {
+        "id_cliente" : 48,
+        "rut" : "25.127.456-9",
+        "nombre" : "Carolina",
+        "apellido" : "Bustos",
+        "direccion" : "San Diego #567, Santiago",
+        "telefono" : "8901234562",
+        "email" : "Correo47@duocuc.cl"
+    },
+    {
+        "id_cliente" : 49,
+        "rut" : "26.127.456-0",
+        "nombre" : "Fernando",
+        "apellido" : "Farias",
+        "direccion" : "Irarrázaval #789, Ñuñoa",
+        "telefono" : "9012345672",
+        "email" : "Correo48@duocuc.cl"
+    },
+    {
+        "id_cliente" : 50,
+        "rut" : "27.127.456-1",
+        "nombre" : "Clara",
+        "apellido" : "Escobar",
+        "direccion" : "Pedro de Valdivia #890, Providencia",
+        "telefono" : "0123456782",
+        "email" : "Correo49@duocuc.cl"
+    }
+]

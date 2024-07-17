@@ -1,0 +1,28 @@
+// Este script se ejecutará antes de enviar la solicitud
+pm.environment.set("timestamp", new Date().toISOString());
+
+
+
+
+
+
+// Este script se ejecutará después de recibir la respuesta
+pm.test("Status code is 200", function () {
+    pm.response.to.have.status(200);
+});
+
+pm.test("Response time is less than 100ms", function () {
+    pm.expect(pm.response.responseTime).to.be.below(1000);
+});
+
+
+
+{
+    "id_moto": {{id_moto}},
+    "id_tipo_moto": {{id_tipo_moto}},
+    "id_marca": {{id_marca}},
+    "modelo": "{{modelo}}",
+    "precio": {{precio}},
+    "color": "{{color}}",
+    "cilindrada": {{cilindrada}}
+}

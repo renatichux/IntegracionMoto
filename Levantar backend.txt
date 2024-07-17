@@ -1,0 +1,18 @@
+CD backend
+pip install Django
+pip install djangorestframework
+pip install djangorestframework_simplejwt
+pip install pillow
+
+
+
+
+pip install spyne
+pip install lxml
+pip install suds
+
+pip install requests
+
+
+
+python manage.py runserver 0.0.0.0:9010
